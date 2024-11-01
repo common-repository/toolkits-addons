@@ -1,0 +1,122 @@
+.industry-slides {
+    position: relative;
+}
+.industry-single-slide {
+    position: relative;
+    z-index: 3;
+    background-size: cover;
+    background-position: center;
+}
+.industry-single-slide .row{
+    height: 650px;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+}
+.industry-slide-overlay{
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+.industry-single-slide-inner .content-overlay h2 {
+    font-size: 24px;
+    line-height: 1.3;
+    margin-bottom: 15px;
+}
+.industry-single-slide-inner .content-overlay h2 a{
+    color: #333;
+}
+.industry-single-slide-inner .content-overlay h2 a:hover{
+    opacity: 0.6;
+}
+.industry-slides .slick-dots {
+    position: absolute;
+    left: 7.5%;
+    bottom: 100px;
+    text-align: left;
+}
+.industry-slides .slick-dots li{
+    width: 30px;
+    height: 5px;
+    background-color: #ddd;
+    display: inline-block;
+    margin-right: 6px;
+    cursor: pointer;
+}
+.industry-slides .slick-dots li button {
+    display: none;
+}
+.industry-slides .slick-dots li.slick-active{
+    background-color: #000;
+}
+.industry-slides i.slick-arrow{
+    position: absolute;
+    left: 50px;
+    top: 50%;
+    font-size: 50px;
+    line-height: 60px;
+    margin-top: -30px;
+    opacity: .6;
+    color: #fff;
+    cursor: pointer;
+    z-index: 99;
+}
+.industry-slides i.slick-next{
+    left: auto;
+    right: 50px;
+}
+.content-overlay {
+    background: rgba(255,255,255,1);
+    position: relative;
+    height: 100%;
+    width: 100%;
+    display: table;
+    vertical-align: middle;
+    text-align: center;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+    -webkit-box-shadow: 0 8px 6px -6px rgba(0,0,0,.25);
+    -moz-box-shadow: 0 8px 6px -6px rgba(0,0,0,.25);
+    box-shadow: 0 8px 6px -6px rgba(0,0,0,.25);
+    padding: 70px 20px;
+}
+.content-overlay span.cat a {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 1px solid;
+    border-color: #333;
+    padding-bottom: 2px;
+    display: inline-block;
+    margin: 0 4px 12px;
+}
+.content-overlay span.date {
+    font-size: 11px;
+    font-style: italic;
+    color: #888;
+}
+.content-overlay a.read-more {
+    font-size: 10px;
+    margin-top: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #000;
+    background: #fff;
+    font-weight: 700;
+    display: inline-block;
+    padding: 5px 15px;
+    border: 1px solid;
+    border-color: #c69f73;
+    -o-transition: .2s;
+    -ms-transition: .2s;
+    -moz-transition: .2s;
+    -webkit-transition: .2s;
+}
+.content-overlay a.read-more:hover {
+    background: #c69f73;
+    color: #fff;
+}

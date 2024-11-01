@@ -1,0 +1,214 @@
+.testimonial-area .container{
+    z-index: 1;
+    position: relative;
+}
+.testimonial-area .test-bg {
+    position: absolute;
+    top: 0;
+    left:0px;
+}
+.single-testimonial .autor-img {
+	margin-right: 60px;
+	width: 17%;
+	float: left;
+}
+.single-testimonial .text {
+	width: 77%;
+	float: left;
+}
+.ta-bg {
+	height: 475px;
+	width: 475px;
+	background-repeat: no-repeat;
+	margin-top: 25px;
+}
+.testimonial-author .ta {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    overflow: hidden;
+    transition: all 1200ms ease;
+    -moz-transition: all 1200ms ease;
+    -webkit-transition: all 1200ms ease;
+    -ms-transition: all 1200ms ease;
+    -o-transition: all 1200ms ease;
+}
+.author-one.now-in-view {
+	top: -25px;
+	left: 110px;
+}
+.author-two.now-in-view {
+	top: 21%;
+	left: 69%;
+}
+.author-three.now-in-view {
+	left: 67%;
+	top: 66%;
+}
+.author-four.now-in-view {
+	top: 77%;
+	left: 53px;
+}
+.author-five.now-in-view {
+	left: 50px;
+	top: 41%;
+}
+.testi-author img {
+ display: inline-block;
+margin-bottom: 15px;
+margin-top: 30px;
+}
+.ta-info {
+	overflow: hidden;
+	display: block;
+}
+.ta-info h6 {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.ta-info span {
+	font-size: 14px;
+}
+.testi-author {
+	overflow: hidden;
+	align-items: center;
+}
+.testimonial-active .slick-arrow {
+	position: absolute;
+	bottom: -5px;
+	transform: translateY(-50%);
+	left: 490px;
+	border: none;
+	background: none;
+	padding: 0;
+	color: #f6fbff;
+	z-index: 1;
+	-webkit-transition: all 0.3s ease-out 0s;
+	-moz-transition: all 0.3s ease-out 0s;
+	-ms-transition: all 0.3s ease-out 0s;
+	-o-transition: all 0.3s ease-out 0s;
+	transition: all 0.3s ease-out 0s;
+	cursor: pointer;
+	text-align: center;
+	color: #2b2d42;
+	background: none;
+	font-size: 24px;
+}
+.testimonial-active .slick-next {
+	left: inherit;
+	right: 490px;
+}
+.testimonial-active .slick-arrow:hover {color: #000;}
+.testimonial-avatar.p-relative {
+	min-height: 455px;
+	display: block;
+	overflow: hidden;
+}
+.testimonial-avatar .ta {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	overflow: hidden;
+	transition: all 1200ms ease;
+	-moz-transition: all 1200ms ease;
+	-webkit-transition: all 1200ms ease;
+	-ms-transition: all 1200ms ease;
+	-o-transition: all 1200ms ease;
+}
+.avatar-one.now-in-view {
+	top: 0%;
+	left: 28%;
+}
+.avatar-two.now-in-view {
+	top: 50%;
+	left: 0;
+	transform: translateY(-50%);
+}
+.avatar-three.now-in-view {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.avatar-four.now-in-view {
+	top: 20%;
+	left: 70%;
+}
+.avatar-five.now-in-view {
+	top: 70%;
+	left: 25%;
+}
+.avatar-six.now-in-view {
+	top: 59%;
+	left: 64%;
+}
+.single-testimonial-bg{
+	background: #FFFFFF 0% 0% no-repeat padding-box;
+	box-shadow: 3px 4px 15px #0000001A;
+	border-radius: 10px;
+	width: 85%;
+	float: right;
+	padding: 30px 50px 100px 150px;
+	margin: 20px;
+	color: #525c7b;
+}
+.testimonial-active {
+    margin: 0 -12px;
+}
+
+.testimonial-active .testi-img {
+    float: left;
+    margin-bottom: 20px;
+    position: absolute;
+    left: 0;
+    top: 80px;
+}
+.testimonial-active .ta-info {
+    overflow: hidden;
+}
+.testimonial-active .ta-info span {
+    color: #777;
+    font-size: 14px;
+    position: relative;
+}
+.testimonial-active .ta-info h6 {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #000;
+}
+.testimonial-active p {
+    margin-bottom: 0;
+}
+.testimonial-active .com-icon {
+    position: absolute;
+    right: 50px;
+    top: 45px;
+}
+.testimonial-active .slick-dots {
+	position: absolute;
+    top: 20%;
+    right: 30px;
+}
+.testimonial-active .slick-dots li {
+    margin: 0 0px;
+}
+.testimonial-active .slick-dots li button {
+border: none;
+background: none;
+color: #777;
+font-size: 26px;
+font-weight: 300;
+margin-bottom: 10px;
+}
+.testimonial-active .slick-dots .slick-active button {
+    color: #000;
+    text-decoration: underline;
+}
+.testimonial-active .qt-img img{
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.slider-nav .slick-list.draggable {
+    width: 233px;
+    float: right;
+}

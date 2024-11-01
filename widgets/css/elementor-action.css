@@ -1,0 +1,23 @@
+.industry-single-slide.action{
+    height: 350px;
+    width: 100%;
+    position: relative;
+    z-index: 2;
+    display: table;
+}
+.industry-single-slide-inner.action {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position: relative;
+    z-index: 999;
+}
+.industry-single-slide-inner.action a.read-more{
+    color: #fff;
+}
+.industry-single-slide-inner.action a.read-more h2 {
+    text-transform: uppercase;
+}
+.industry-single-slide-inner.action a.read-more:hover {
+    opacity: 0.7;
+}

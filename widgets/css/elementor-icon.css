@@ -1,0 +1,25 @@
+.contact-icon{
+     position: relative;
+     padding-left: 90px;
+     margin-bottom: 50px;
+}
+.contact-icon .icon{
+     position: absolute;
+     top: 50%;
+     left: 0;
+     background-color: #333;
+     color: #fff;
+     width: 70px;
+     height: 70px;
+     text-align: center;
+     line-height: 70px;
+     border-radius: 50%;
+     font-size: 25px;
+     margin-top: -35px;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .contact-icon {
+          margin-bottom: 30px;
+     }
+}

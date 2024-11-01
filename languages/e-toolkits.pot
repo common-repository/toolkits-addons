@@ -1,0 +1,702 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Toolkits Addons\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-27 16:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: e-toolkits"
+
+#: toolkits-addons.php:83
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: toolkits-addons.php:97 toolkits-addons.php:112
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: widgets/elementor-action.php:64 widgets/elementor-parallax.php:74
+#: widgets/elementor-slider.php:194
+msgid "1"
+msgstr ""
+
+#: widgets/elementor-carousel.php:82 widgets/elementor-slider.php:152
+#: widgets/elementor-testimonial.php:63
+msgid "1 Second"
+msgstr ""
+
+#: widgets/elementor-popular.php:89 widgets/elementor-slider.php:229
+msgid "10 Columns"
+msgstr ""
+
+#: widgets/elementor-count-box.php:60 widgets/elementor-pricing-table.php:89
+msgid "100"
+msgstr ""
+
+#: widgets/elementor-popular.php:90 widgets/elementor-slider.php:230
+msgid "11 Columns"
+msgstr ""
+
+#: widgets/elementor-popular.php:91 widgets/elementor-slider.php:231
+msgid "12 Columns"
+msgstr ""
+
+#: widgets/elementor-action.php:65 widgets/elementor-parallax.php:75
+#: widgets/elementor-slider.php:195
+msgid "2"
+msgstr ""
+
+#: widgets/elementor-carousel.php:83 widgets/elementor-slider.php:153
+#: widgets/elementor-testimonial.php:64
+msgid "2 Seconds"
+msgstr ""
+
+#: widgets/elementor-action.php:66 widgets/elementor-parallax.php:76
+#: widgets/elementor-slider.php:196
+msgid "3"
+msgstr ""
+
+#: widgets/elementor-popular.php:82
+msgid "3 Columns"
+msgstr ""
+
+#: widgets/elementor-carousel.php:84 widgets/elementor-slider.php:154
+#: widgets/elementor-testimonial.php:65
+msgid "3 Seconds"
+msgstr ""
+
+#: widgets/elementor-action.php:67 widgets/elementor-parallax.php:77
+#: widgets/elementor-slider.php:197
+msgid "4"
+msgstr ""
+
+#: widgets/elementor-popular.php:83 widgets/elementor-slider.php:223
+msgid "4 Columns"
+msgstr ""
+
+#: widgets/elementor-carousel.php:85 widgets/elementor-slider.php:155
+#: widgets/elementor-testimonial.php:66
+msgid "4 Seconds"
+msgstr ""
+
+#: widgets/elementor-action.php:68 widgets/elementor-parallax.php:78
+#: widgets/elementor-slider.php:198
+msgid "5"
+msgstr ""
+
+#: widgets/elementor-popular.php:84 widgets/elementor-slider.php:224
+msgid "5 Columns"
+msgstr ""
+
+#: widgets/elementor-carousel.php:86 widgets/elementor-slider.php:156
+#: widgets/elementor-testimonial.php:67
+msgid "5 Seconds"
+msgstr ""
+
+#: widgets/elementor-action.php:69 widgets/elementor-parallax.php:79
+#: widgets/elementor-slider.php:199
+msgid "6"
+msgstr ""
+
+#: widgets/elementor-popular.php:85 widgets/elementor-slider.php:225
+msgid "6 Columns"
+msgstr ""
+
+#: widgets/elementor-action.php:70 widgets/elementor-parallax.php:80
+#: widgets/elementor-slider.php:200
+msgid "7"
+msgstr ""
+
+#: widgets/elementor-popular.php:86 widgets/elementor-slider.php:226
+msgid "7 Columns"
+msgstr ""
+
+#: widgets/elementor-action.php:71 widgets/elementor-parallax.php:81
+#: widgets/elementor-slider.php:201
+msgid "8"
+msgstr ""
+
+#: widgets/elementor-popular.php:87 widgets/elementor-slider.php:227
+msgid "8 Columns"
+msgstr ""
+
+#: widgets/elementor-action.php:72 widgets/elementor-parallax.php:82
+#: widgets/elementor-slider.php:202
+msgid "9"
+msgstr ""
+
+#: widgets/elementor-popular.php:88 widgets/elementor-slider.php:228
+msgid "9 Columns"
+msgstr ""
+
+#: widgets/elementor-skills.php:46
+msgid "95"
+msgstr ""
+
+#: widgets/elementor-action.php:11
+msgid "Action"
+msgstr ""
+
+#: widgets/elementor-action.php:27
+msgid "Action Content"
+msgstr ""
+
+#: widgets/elementor-action.php:52
+msgid "Action Image"
+msgstr ""
+
+#: widgets/elementor-action.php:44
+msgid "Action Link"
+msgstr ""
+
+#: widgets/elementor-action.php:35
+msgid "Action Title"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:158
+msgid "Add Pricing Link"
+msgstr ""
+
+#: widgets/elementor-parallax.php:54
+msgid ""
+"Agency is the sense of control that you feel in your life, your capacity to "
+"influence your own thoughts and behavior, and have faith in your ability to "
+"handle a wide range."
+msgstr ""
+
+#: widgets/elementor-popular.php:69 widgets/elementor-slider.php:69
+msgid "Ascending Post"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ashathemes"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:121
+msgid "Author Image"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:112
+msgid "Author Job Name"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:103
+msgid "Author Name"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:94
+msgid "Author Post"
+msgstr ""
+
+#: widgets/elementor-bannar.php:11
+msgid "Bannar"
+msgstr ""
+
+#: widgets/elementor-bannar.php:52
+msgid "Bannar Background"
+msgstr ""
+
+#: widgets/elementor-bannar.php:27 widgets/elementor-bannar.php:44
+msgid "Bannar Content"
+msgstr ""
+
+#: widgets/elementor-bannar.php:35
+msgid "Bannar Title"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:71
+msgid "Basic Plan"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:166
+msgid "Button Text"
+msgstr ""
+
+#: widgets/elementor-carousel.php:10 widgets/elementor-carousel.php:104
+msgid "Carousel"
+msgstr ""
+
+#: widgets/elementor-carousel.php:26
+msgid "Carousel Content"
+msgstr ""
+
+#: widgets/elementor-carousel.php:34
+msgid "Carousel Count"
+msgstr ""
+
+#: widgets/elementor-carousel.php:96
+msgid "Carousel Image"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:140
+msgid "Content"
+msgstr ""
+
+#: widgets/elementor-count-box.php:11
+msgid "Count Box"
+msgstr ""
+
+#: widgets/elementor-count-box.php:27
+msgid "Count Box Content"
+msgstr ""
+
+#: widgets/elementor-count-box.php:35
+msgid "Count Box Theme"
+msgstr ""
+
+#: widgets/elementor-count-box.php:67
+msgid "Count Icon"
+msgstr ""
+
+#: widgets/elementor-count-box.php:58
+msgid "Count Number"
+msgstr ""
+
+#: widgets/elementor-count-box.php:49
+msgid "Count Title"
+msgstr ""
+
+#: widgets/elementor-popular.php:70 widgets/elementor-slider.php:70
+msgid "Descending Post"
+msgstr ""
+
+#: widgets/elementor-parallax.php:37
+msgid "Digital Creativity"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:114
+msgid "Director Of Marketing"
+msgstr ""
+
+#: toolkits-addons.php:85 toolkits-addons.php:99
+msgid "Elementor"
+msgstr ""
+
+#: toolkits-addons.php:84 toolkits-addons.php:98 toolkits-addons.php:113
+msgid "Elementor Test Extension"
+msgstr ""
+
+#: toolkits-addons.php:67
+msgid "Elementor Toolkits Addons"
+msgstr ""
+
+#: widgets/elementor-slider.php:177
+msgid "Enable  Fade?"
+msgstr ""
+
+#: widgets/elementor-carousel.php:65
+msgid "Enable Carousel Autoplay?"
+msgstr ""
+
+#: widgets/elementor-carousel.php:52
+msgid "Enable Carousel Loop?"
+msgstr ""
+
+#: widgets/elementor-slider.php:164
+msgid "Enable Draggable?"
+msgstr ""
+
+#: widgets/elementor-slider.php:135
+msgid "Enable Post Autoplay?"
+msgstr ""
+
+#: widgets/elementor-slider.php:91
+msgid "Enable Post Dots?"
+msgstr ""
+
+#: widgets/elementor-slider.php:78
+msgid "Enable Post Loop?"
+msgstr ""
+
+#: widgets/elementor-slider.php:104
+msgid "Enable Post Nav?"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:46
+msgid "Enable Testimonial Dots?"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:33
+msgid "Enable Testimonial Loop?"
+msgstr ""
+
+#: widgets/elementor-bannar.php:46
+msgid ""
+"He difficult contented we determine ourselves me am earnestly. Hour no find "
+"it park. Eat welcomed any husbands moderate."
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:120
+msgid "Highlighted Pricing Table"
+msgstr ""
+
+#: widgets/elementor-skills.php:37
+msgid "HTML"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ashathemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/ashathemes"
+msgstr ""
+
+#: widgets/elementor-icon.php:11 widgets/elementor-icon.php:35
+msgid "Icon"
+msgstr ""
+
+#: widgets/elementor-icon.php:27
+msgid "Icon Content"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:128
+msgid "Icon Image"
+msgstr ""
+
+#: widgets/elementor-slider.php:117
+msgid "Left Nav Icon"
+msgstr ""
+
+#: widgets/elementor-service.php:108
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+msgstr ""
+
+#: widgets/elementor-bannar.php:37
+msgid "Minimal Protfolio Theme"
+msgstr ""
+
+#: widgets/elementor-carousel.php:57 widgets/elementor-carousel.php:70
+#: widgets/elementor-pricing-table.php:128 widgets/elementor-slider.php:83
+#: widgets/elementor-slider.php:96 widgets/elementor-slider.php:109
+#: widgets/elementor-slider.php:140 widgets/elementor-slider.php:169
+#: widgets/elementor-slider.php:182 widgets/elementor-testimonial.php:38
+#: widgets/elementor-testimonial.php:51
+msgid "No"
+msgstr ""
+
+#: widgets/elementor-parallax.php:11
+msgid "Parallax"
+msgstr ""
+
+#: widgets/elementor-parallax.php:27 widgets/elementor-parallax.php:52
+msgid "Parallax Content"
+msgstr ""
+
+#: widgets/elementor-parallax.php:62
+msgid "Parallax Image"
+msgstr ""
+
+#: widgets/elementor-parallax.php:44
+msgid "Parallax Link"
+msgstr ""
+
+#: widgets/elementor-parallax.php:35
+msgid "Parallax Title"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:98
+msgid "per project"
+msgstr ""
+
+#: toolkits-addons.php:114
+msgid "PHP"
+msgstr ""
+
+#: widgets/elementor-popular.php:11
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/elementor-popular.php:55
+msgid "Popular Posts category"
+msgstr ""
+
+#: widgets/elementor-popular.php:27
+msgid "Popular Posts Content"
+msgstr ""
+
+#: widgets/elementor-popular.php:35
+msgid "Popular Posts Count"
+msgstr ""
+
+#: widgets/elementor-popular.php:78
+msgid "Popular Posts Width"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:87
+msgid "Price Amount"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:78
+msgid "Price Icon"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:96
+msgid "Pricing Sub Title"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:11
+msgid "Pricing Table"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:108
+msgid "Pricing Time"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:69
+msgid "Pricing Title"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:27
+msgid "Pricng Table Content"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:35
+msgid "Pricng Table Style"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:48
+msgid "Pricng Table Theme"
+msgstr ""
+
+#: widgets/elementor-skills.php:11
+msgid "Progress Bar"
+msgstr ""
+
+#: widgets/elementor-count-box.php:51
+msgid "Project completed"
+msgstr ""
+
+#: widgets/elementor-slider.php:126
+msgid "Right Nav Icon"
+msgstr ""
+
+#: widgets/elementor-action.php:60
+msgid "Select Action Opacity"
+msgstr ""
+
+#: widgets/elementor-action.php:80
+msgid "Select Action Opacity Color"
+msgstr ""
+
+#: widgets/elementor-carousel.php:78 widgets/elementor-slider.php:148
+msgid "Select AutoplayTimeout"
+msgstr ""
+
+#: widgets/elementor-parallax.php:70
+msgid "Select Parallax Opacity"
+msgstr ""
+
+#: widgets/elementor-parallax.php:90
+msgid "Select Parallax Opacity Color"
+msgstr ""
+
+#: widgets/elementor-popular.php:65 widgets/elementor-slider.php:65
+msgid "Select Post Order"
+msgstr ""
+
+#: widgets/elementor-slider.php:190
+msgid "Select Slider Opacity"
+msgstr ""
+
+#: widgets/elementor-slider.php:210
+msgid "Select Slider Opacity Color"
+msgstr ""
+
+#: widgets/elementor-carousel.php:43 widgets/elementor-testimonial.php:84
+msgid "Select SlideToScroll"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:59
+msgid "Select Testimonial Speed"
+msgstr ""
+
+#: widgets/elementor-service.php:11
+msgid "Service"
+msgstr ""
+
+#: widgets/elementor-service.php:27 widgets/elementor-service.php:106
+msgid "Service Content"
+msgstr ""
+
+#: widgets/elementor-service.php:97
+msgid "Service Icon"
+msgstr ""
+
+#: widgets/elementor-service.php:76
+msgid "Service Title"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:168
+msgid "Sign Up"
+msgstr ""
+
+#: widgets/elementor-carousel.php:109
+msgid "Single Carousel"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:141
+msgid "Single Testimonial"
+msgstr ""
+
+#: widgets/elementor-skills.php:27
+msgid "Skill Content"
+msgstr ""
+
+#: widgets/elementor-skills.php:44
+msgid "Skill Persentage"
+msgstr ""
+
+#: widgets/elementor-skills.php:35
+msgid "Skill Title"
+msgstr ""
+
+#: widgets/elementor-slider.php:11
+msgid "Slider"
+msgstr ""
+
+#: widgets/elementor-slider.php:27
+msgid "Slider Content"
+msgstr ""
+
+#: widgets/elementor-slider.php:239
+msgid "Slider Content Alignment"
+msgstr ""
+
+#: widgets/elementor-slider.php:263
+msgid "Slider Content Color"
+msgstr ""
+
+#: widgets/elementor-slider.php:219
+msgid "Slider Content Width"
+msgstr ""
+
+#: widgets/elementor-slider.php:35
+msgid "Slider Count"
+msgstr ""
+
+#: widgets/elementor-slider.php:55
+msgid "Slider Posts category"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:105
+msgid "Stokes Daniel Li."
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:39
+msgid "Style 1"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:40
+msgid "Style 2"
+msgstr ""
+
+#: widgets/elementor-icon.php:53
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:9 widgets/elementor-testimonial.php:136
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:25
+msgid "Testimonial Content"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:75
+msgid "Testimonial Count"
+msgstr ""
+
+#: widgets/elementor-slider.php:247
+msgid "Text Center"
+msgstr ""
+
+#: widgets/elementor-slider.php:243
+msgid "Text Left"
+msgstr ""
+
+#: widgets/elementor-slider.php:251
+msgid "Text Right"
+msgstr ""
+
+#: widgets/elementor-testimonial.php:96
+msgid ""
+"Their Leadership, Listing Skills & Dedication Translate Into Extraordinary "
+"Work."
+msgstr ""
+
+#: widgets/elementor-count-box.php:39 widgets/elementor-pricing-table.php:52
+msgid "Theme 1"
+msgstr ""
+
+#: widgets/elementor-count-box.php:40 widgets/elementor-pricing-table.php:53
+msgid "Theme 2"
+msgstr ""
+
+#: widgets/elementor-count-box.php:41 widgets/elementor-pricing-table.php:54
+msgid "Theme 3"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:55
+msgid "Theme 4"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:56
+msgid "Theme 5"
+msgstr ""
+
+#: widgets/elementor-pricing-table.php:57
+msgid "Theme 6"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin will enable elementor addons on your wordpress theme. You can "
+"use this plugin any wordpress theme. If you want to get best performance "
+"please active our theme."
+msgstr ""
+
+#: widgets/elementor-icon.php:44
+msgid "Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "Toolkits Addons"
+msgstr ""
+
+#: widgets/elementor-action.php:37
+msgid "Uncategories"
+msgstr ""
+
+#: widgets/elementor-service.php:78
+msgid "Web Design"
+msgstr ""
+
+#: widgets/elementor-carousel.php:56 widgets/elementor-carousel.php:69
+#: widgets/elementor-pricing-table.php:124 widgets/elementor-slider.php:82
+#: widgets/elementor-slider.php:95 widgets/elementor-slider.php:108
+#: widgets/elementor-slider.php:139 widgets/elementor-slider.php:168
+#: widgets/elementor-slider.php:181 widgets/elementor-testimonial.php:37
+#: widgets/elementor-testimonial.php:50
+msgid "Yes"
+msgstr ""
+
+#: widgets/elementor-icon.php:55
+msgid "Your sub title here"
+msgstr ""
+
+#: widgets/elementor-icon.php:46
+msgid "Your title here"
+msgstr ""
